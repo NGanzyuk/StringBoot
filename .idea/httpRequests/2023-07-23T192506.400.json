@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-07-23T16:25:06.752+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/authorize"
+}

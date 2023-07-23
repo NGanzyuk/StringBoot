@@ -6,19 +6,37 @@
   <component name="ChangeListManager">
     <list default="true" id="46317002-6b26-4218-84e2-9a57fa5a246c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConditionalApp/src/main/java/springboot/conditionalapp/JavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalApp/src/main/java/springboot/conditionalapp/JavaConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConditionalApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalApp/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/AuthorizatioService">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -49,11 +67,21 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;18d2a07a19d176d8753b5a6c1942b33c&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;922a3b71c985766b4bb93c26f45715fd&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.AuthorizationServiceApplication">
+    <configuration name="AuthorizationServiceApplication | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/AuthorizationServiceApplication.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthorizationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="AuthorizationService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springboot.authorizationservice.AuthorizationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConditionalAppApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="ConditionalApp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="springboot.conditionalapp.ConditionalAppApplication" />
@@ -61,6 +89,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.AuthorizationServiceApplication | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,7 +107,11 @@
       <workItem from="1689374145839" duration="242000" />
       <workItem from="1689375285229" duration="2539000" />
       <workItem from="1689430950485" duration="2485000" />
-      <workItem from="1689443915528" duration="1922000" />
+      <workItem from="1689443915528" duration="2655000" />
+      <workItem from="1689696855144" duration="932000" />
+      <workItem from="1689708482248" duration="4637000" />
+      <workItem from="1690110739591" duration="5673000" />
+      <workItem from="1690130625073" duration="32000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,190 @@
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T194059.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T193937.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T193935.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T193244.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T193236.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "qwer",
+  "password": "123"
+}
+
+<> 2023-07-23T192712.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 38
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": null,
+  "password": null
+}
+
+<> 2023-07-23T192701.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+}
+
+<> 2023-07-23T192603.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+}
+
+<> 2023-07-23T192601.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "",
+  "password": ""
+}
+
+<> 2023-07-23T192551.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 41
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "user",
+  "password": "123"
+}
+
+<> 2023-07-23T192506.400.json
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "user": "",
+  "password": ""
+}
+
+<> 2023-07-23T192456.400.json
+
+###
+
