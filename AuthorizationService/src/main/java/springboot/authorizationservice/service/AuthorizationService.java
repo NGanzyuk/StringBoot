@@ -1,9 +1,14 @@
-package springboot.authorizationservice;
+package springboot.authorizationservice.service;
 
-import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+import springboot.authorizationservice.exception.InvalidCredentials;
+import springboot.authorizationservice.exception.UnauthorizedUser;
+import springboot.authorizationservice.repository.Authorities;
+import springboot.authorizationservice.repository.UserRepository;
 
 import java.util.List;
 
+@Service
 public class AuthorizationService {
     UserRepository userRepository;
 
@@ -11,7 +16,6 @@ public class AuthorizationService {
         if (isEmpty(user) || isEmpty(password)) {
             throw new InvalidCredentials("User name or password is empty");
         }
-        userRepository = UserRepository.getUserRepository();
         List<Authorities> userAuthorities = userRepository.getUserAuthorities(user, password);
         System.out.println(userAuthorities.toString());
         if (isEmpty(userAuthorities)) {

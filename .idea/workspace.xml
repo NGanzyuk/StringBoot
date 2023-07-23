@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46317002-6b26-4218-84e2-9a57fa5a246c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/Authorities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/AuthorizationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/AuthorizationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/InvalidCredentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/UnauthorizedUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/UserRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +116,7 @@
       <workItem from="1689708482248" duration="4637000" />
       <workItem from="1690110739591" duration="5673000" />
       <workItem from="1690130625073" duration="32000" />
+      <workItem from="1690136805083" duration="3354000" />
     </task>
     <servers />
   </component>
