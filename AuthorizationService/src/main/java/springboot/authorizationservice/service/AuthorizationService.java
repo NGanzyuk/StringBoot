@@ -10,9 +10,13 @@ import java.util.List;
 
 @Service
 public class AuthorizationService {
-    UserRepository userRepository;
+    private final UserRepository userRepository;
 
-    List<Authorities> getAuthorities(String user, String password) {
+    public AuthorizationService(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
+
+    public List<Authorities> getAuthorities(String user, String password) {
         if (isEmpty(user) || isEmpty(password)) {
             throw new InvalidCredentials("User name or password is empty");
         }

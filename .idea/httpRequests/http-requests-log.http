@@ -1,5 +1,61 @@
 GET http://localhost:8080/authorize
 Content-Type: application/json
+{:
+  "user": "qwer",
+  "password": "123"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-02T021854.400.html
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+{:
+  "user": "qwer",
+  "password": "123"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-02T021211.400.html
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+{:
+  "user": "qwer",
+  "password": "123"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-02T020902.400.html
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
+{:
+  "user": "qwer",
+  "password": "123"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-02T020841.400.html
+
+###
+
+GET http://localhost:8080/authorize
+Content-Type: application/json
 Content-Length: 41
 Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)

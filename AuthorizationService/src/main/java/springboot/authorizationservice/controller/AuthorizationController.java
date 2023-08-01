@@ -10,12 +10,17 @@ import org.springframework.web.bind.annotation.RestController;
 import springboot.authorizationservice.exception.InvalidCredentials;
 import springboot.authorizationservice.exception.UnauthorizedUser;
 import springboot.authorizationservice.repository.Authorities;
+import springboot.authorizationservice.service.AuthorizationService;
 
 import java.util.List;
 
 @RestController
 public class AuthorizationController {
-    AuthorizationController service;
+    private final AuthorizationService service;
+
+    public AuthorizationController(AuthorizationService service) {
+        this.service = service;
+    }
 
     @GetMapping("/authorize")
     public List<Authorities> getAuthorities(@RequestParam("user") String user, @RequestParam("password") String password) {
