@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46317002-6b26-4218-84e2-9a57fa5a246c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/controller/AuthorizationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/controller/AuthorizationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/model/RepositoryModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/service/AuthorizationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationService/src/main/java/springboot/authorizationservice/service/AuthorizationService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +115,9 @@
       <workItem from="1690136805083" duration="3354000" />
       <workItem from="1690584717205" duration="651000" />
       <workItem from="1690901505135" duration="3964000" />
+      <workItem from="1691543627696" duration="1210000" />
+      <workItem from="1692436283298" duration="2777000" />
+      <workItem from="1692449750387" duration="3202000" />
     </task>
     <servers />
   </component>
